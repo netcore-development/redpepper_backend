@@ -1,0 +1,14 @@
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\bin\Debug\netcoreapp2.2\RedPepper.API.deps.json
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\bin\Debug\netcoreapp2.2\RedPepper.API.runtimeconfig.json
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\bin\Debug\netcoreapp2.2\RedPepper.API.runtimeconfig.dev.json
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\bin\Debug\netcoreapp2.2\RedPepper.API.dll
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\bin\Debug\netcoreapp2.2\RedPepper.API.pdb
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\obj\Debug\netcoreapp2.2\RedPepper.API.csprojAssemblyReference.cache
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\obj\Debug\netcoreapp2.2\RedPepper.API.csproj.CoreCompileInputs.cache
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\obj\Debug\netcoreapp2.2\RedPepper.API.RazorAssemblyInfo.cache
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\obj\Debug\netcoreapp2.2\RedPepper.API.RazorAssemblyInfo.cs
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\obj\Debug\netcoreapp2.2\RedPepper.API.AssemblyInfoInputs.cache
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\obj\Debug\netcoreapp2.2\RedPepper.API.AssemblyInfo.cs
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\obj\Debug\netcoreapp2.2\RedPepper.API.RazorTargetAssemblyInfo.cache
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\obj\Debug\netcoreapp2.2\RedPepper.API.dll
+C:\Users\bgarc\Desktop\Proyecto Final\RedPepper.API\obj\Debug\netcoreapp2.2\RedPepper.API.pdb
