@@ -13,8 +13,8 @@ namespace RedPepper.API.Model
         [Required]
         [MaxLength(50)]
         public string Apellidos {get;set;}
-        [MaxLength(1)]
-        public char Sexo {get;set;}
+        [StringLength(1)]
+        public string Sexo {get;set;}
         [Required]
         public DateTime FechaNacimiento {get;set;}
         [MaxLength(10)]

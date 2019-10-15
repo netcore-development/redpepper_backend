@@ -17,14 +17,14 @@ namespace RedPepper.API.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetPersonas()
+        public async Task<IActionResult> GetPersons()
         {
             var personas = await _context.Personas.ToListAsync();
             return Ok(personas);
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetPersona(int id)
+        public async Task<IActionResult> GetPerson(int id)
         {
             var persona = await _context.Personas.FirstOrDefaultAsync(p => p.Id == id);
             return Ok(persona);
@@ -32,7 +32,7 @@ namespace RedPepper.API.Controllers
 
         // POST: api/TodoItems
         [HttpPost]
-        public async Task<IActionResult> PostPersona(Persona persona)
+        public async Task<IActionResult> PostPerson(Persona persona)
         {
             _context.Personas.Add(persona);
             await _context.SaveChangesAsync();
