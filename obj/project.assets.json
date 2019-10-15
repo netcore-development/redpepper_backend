@@ -12157,23 +12157,26 @@
   },
   "packageFolders": {
     "C:\\Users\\bgarc\\.nuget\\packages\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bgarc\\Desktop\\Proyecto Final\\RedPepper.API\\RedPepper.API.csproj",
+      "projectUniqueName": "C:\\Users\\bgarc\\Desktop\\Proyecto Final\\redpepper_backend\\RedPepper.API.csproj",
       "projectName": "RedPepper.API",
-      "projectPath": "C:\\Users\\bgarc\\Desktop\\Proyecto Final\\RedPepper.API\\RedPepper.API.csproj",
+      "projectPath": "C:\\Users\\bgarc\\Desktop\\Proyecto Final\\redpepper_backend\\RedPepper.API.csproj",
       "packagesPath": "C:\\Users\\bgarc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bgarc\\Desktop\\Proyecto Final\\RedPepper.API\\obj\\",
+      "outputPath": "C:\\Users\\bgarc\\Desktop\\Proyecto Final\\redpepper_backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\bgarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
